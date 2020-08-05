@@ -1,0 +1,28 @@
+@charset utf-8;
+
+img
+{
+	border: none;
+	width: 100%;
+}
+
+.row
+{
+	margin-bottom: 1%;
+}
+
+.header-separador
+{
+	border-bottom: 1px solid #eeeeee;
+	margin-bottom: 2%;
+}
+
+textarea
+{
+	resize: none;
+}
+
+body
+{
+	margin-top: 50px;
+}
